@@ -6,21 +6,24 @@ Instructor: Dr. Angela Yu
 
 ## Description
 
-Sandbox is a browser-based developoer environment, initiallly created with React in mind.
-This project is a basic tutorial to use CodeSandbox.
+Sandbox is a browser-based developoer environment, initiallly created with React in mind.          
+This project is a basic tutorial to use CodeSandbox.       
 It displays a Heading and two Paragraphs.         
-The objective was to be able to code using CodeSandbox, link and fork my projects and finally commit the project to GitHub.
+My goal was to be able to use CodeSandbox, link and fork my projects, write my code and finally commit the project to GitHub.
 
-## Babel
+
+## Notes
+
+### Babel
 Babel is a JavaScript Compiler, 
 It takes modern JS (JSX in this case) and compile it down to a version fo JavaScript compatible with any browser.   
 
-## React & ReactDOM Modules
+### React & ReactDOM Modules
 
-### React Module
+#### React Module
 Our HTML is compiled by the React Module (line 1 in index.js)
 
-### ReactDOM Module
+#### ReactDOM Module
 ```
 ReactDOM.render( input1 , input2 )
 ```
