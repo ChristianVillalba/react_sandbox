@@ -1,10 +1,15 @@
 # react_sandbox
-Created with CodeSandbox.     
-Introduction to Sandbox.
+Created with [CodeSandobox](https://codesandbox.io/)      
+Notes from React module     
+[The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
+Instructor: Dr. Angela Yu   
 
 ## Description
 
 Sandbox is a browser-based developoer environment, initiallly created with React in mind.
+This project is a basic tutorial to use CodeSandbox.
+It displays a Heading and two Paragraphs.         
+The objective was to be able to code using CodeSandbox, link and fork my projects and finally commit the project to GitHub.
 
 ## Babel
 Babel is a JavaScript Compiler, 
